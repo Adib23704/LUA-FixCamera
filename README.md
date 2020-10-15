@@ -10,7 +10,7 @@
 - All you have to do is open chat box and if you press **TAB** then it will show you that its OOC or IC.
 
 # Preview:
-![](https://i.imgur.com/q7lOEQU.gif)
+- https://i.imgur.com/q7lOEQU.gif
 
 # Requirments:
 - Download Moonloader and Sampfuncs latest version
