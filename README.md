@@ -2,7 +2,7 @@
  A mod that allows you to fix your camera on Vehicle. Useful on piloting Helicopter or Drifting cars.
 
 # Download and Installing Instruction:
-  - On the right side you will see **Release** tab. Click on that. You will get download instructions. or [Click Here](https://github.com/Adib23704/LUA-ChatSwitch/releases)
+  - On the right side you will see **Release** tab. Click on that. You will get download instructions. or [Click Here](https://github.com/Adib23704/LUA-FixCamera/releases)
   - Goto **moonloader** folder and Drag n Drop everything to your **GTA SA Game Folder** > **Moonloader** folder.
   - You'll get message on chat when game launches. If it doesn't work contact with me thru Discord: **Adib23704#8947**
 
