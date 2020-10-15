@@ -26,12 +26,9 @@ function main()
         end
         if mode == 2 and activate then
             if activate then
-                attachCameraToVehicleLookAtChar(veh, 0,-27,8, PLAYER_PED, 0, 2)
+                attachCameraToVehicleLookAtChar(veh, 0,-12, 3, PLAYER_PED, 0, 2)
             end
         end
-    end
-    if mode == 1 and activate then
-        setCameraBehindPlayer()
     end
         wait(0) 
     end
